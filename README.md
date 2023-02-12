@@ -1,4 +1,12 @@
 # 💫 About Me:
+
+
+<img src="https://cstonline.net/wp-content/uploads/2020/02/Image-1.3.png" alt="img"> <img/>
+
+
+
+
+
 ### Hi there 👋 📱<br><br><br>I'm Sebastiano from Italy, Sicily. 🧑‍💻<br>I'm a JR. Front-End developer, search in my projects developed with the skills studied in my path with Edgemony.<br>I really enjoy learning languages and framework like React and Next.js!
 
 
