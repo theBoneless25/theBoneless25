@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋 📱<br><br><br>I'm Sebastiano from Italy, Sicily. 🧑‍💻<br>I'm a junior web developer, search in my projects developed with the skills studied in my path with Edgemony.<br>I really enjoy learning languages and framework like React and Next.js!
+### Hi there 👋 📱<br><br><br>I'm Sebastiano from Italy, Sicily. 🧑‍💻<br>I'm a JR. Front-End developer, search in my projects developed with the skills studied in my path with Edgemony.<br>I really enjoy learning languages and framework like React and Next.js!
 
 
 # 💻 Tech Stack:
